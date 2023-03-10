@@ -1,8 +1,11 @@
-### Hello there 👋
+### 👋 Hello there
 
 I am a Master Student from Germany, and do deep learning, computer vision and data science in C/C++, Python and Matlab
 
+---
+
 ### 🔥 My Stats
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwen14&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruwen14&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
 
