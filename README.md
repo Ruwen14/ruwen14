@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-### 👨‍💻 About Me:
 I am a Master Student from Germany, and do deep learning, computer vision and data science in C/C++, Python and Matlab
 
 ### 🔥 My Stats
